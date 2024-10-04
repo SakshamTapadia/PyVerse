@@ -36,6 +36,10 @@ Welcome to **PyVerse**, a comprehensive and open-source hub that organizes and s
 
 Welcome to **PyVerse**, a comprehensive and open-source hub that organizes and showcases a diverse array of Python-based projects, tools, libraries, and scripts. Our goal is to provide a well-structured resource for developers of all levels to explore, learn, and contribute to Python projects across various domains.
 
+## Project Structure
+
+For an overview of the project structure, check the detailed layout in [PROJECT_STRUCTURE.md](./PROJECT_STRUCTURE.md).
+
 ##  Vision and Mission
 
 Our vision is to build a vibrant community and resource hub for Python enthusiasts of all skill levels. We aim to facilitate learning, collaboration, and innovation through a well-organized repository of Python projects and tools. Our mission is to promote open-source development, encourage contributions, and provide a platform for developers to showcase their work.
